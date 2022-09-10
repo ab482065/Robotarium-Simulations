@@ -1,18 +1,4 @@
-%*Leader follower obstacle avoidance (basic) with different obstacle positions
-%Master ATSI : Multi Agent System Course
 
-%Group 3: Nadine KABBARA
-%Leonardo FELIPE TOSO
-%Lara JABER
-%Soha KANSO
-%Fadhlallah BOUDEHANE
-
-
-%basic program with basic learning algorithm, which was advanced into  the  avoid_collision function
-%and a more advanced obstacle avoidance learning algorithm in : Two leader
-%follower with union
-
-%% Robots and robotarium
 
 % Number of robots
 N = 4;
